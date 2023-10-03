@@ -1,0 +1,14 @@
+div.box {
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(207, 228, 255);
+
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
